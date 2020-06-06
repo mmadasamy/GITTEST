@@ -5,7 +5,7 @@
 	<artifactId>gittest</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gittest Maven Webapp</name>
+	<name>GIT Test App</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
