@@ -5,12 +5,17 @@
 	<artifactId>gittest</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<name>GIT Test App</name>
+=======
+	<name>gittest Maven Webapp</name>
+>>>>>>> bf245e2b194bd16200c491213041d0291ae6bde6
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
+<<<<<<< HEAD
 			<version>4.10</version>
 			<scope>test</scope>
 		</dependency>
@@ -19,6 +24,17 @@
 			<artifactId>javax.servlet.jsp-api</artifactId>
 			<version>2.3.1</version>
 		</dependency>
+=======
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+		</dependency>
+
+>>>>>>> bf245e2b194bd16200c491213041d0291ae6bde6
 		<dependency>
 			<groupId>javax.servlet.jsp</groupId>
 			<artifactId>javax.servlet.jsp-api</artifactId>
@@ -28,4 +44,8 @@
 	<build>
 		<finalName>gittest</finalName>
 	</build>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> bf245e2b194bd16200c491213041d0291ae6bde6
